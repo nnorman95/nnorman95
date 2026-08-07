@@ -2,10 +2,10 @@
   <img src="logo.png" alt="NORMAN" width="100%" />
 </p>
 
-## Data Engineering
+## Data Engineering Projects
 
-I build end-to-end data pipelines and analytical data platforms with a focus on ELT, dimensional modeling, data quality, reliability, governance, and observability.
+I'm focused on practical data systems: ingestion, ELT, warehouse modeling, data quality, governance, and observability.
 
-Currently building **NeuroSleep Lakehouse Platform** — a local lakehouse-style data platform for ingesting, validating, governing, and modeling real sleep neuroscience data.
+The main project, **NeuroSleep Lakehouse Platform**, processes real sleep neuroscience data through a local lakehouse-style architecture built around reproducible pipelines and governed analytical layers.
 
-**Core stack:** Python · SQL · PostgreSQL · dbt · Docker · MinIO
+**Tools used across the projects:** Python | SQL | PostgreSQL | dbt | Docker | MinIO
